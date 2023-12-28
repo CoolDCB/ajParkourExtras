@@ -1,0 +1,12 @@
+mysql:
+  tx_isolation: ''
+  maxConnections: 10
+  useSSL: false
+  tablePrefix: ajparkour_
+  allowPublicKeyRetrieval: false
+  ip: 172.0.0.1:3306
+  database: 'database'
+  username: 'user'
+  password: 'password'
+  minConnections: 2
+method: mysql

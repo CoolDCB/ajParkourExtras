@@ -1,0 +1,8 @@
+name: ajParkourExtras
+version: '${version}'
+main: me.dave.ajparkourextras.AJParkourExtras
+api-version: '1.20'
+depend:
+  - ajParkour
+softdepend:
+  - PlaceholderAPI

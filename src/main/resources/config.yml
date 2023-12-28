@@ -1,0 +1,8 @@
+# The number of past days’ data to be displayed on the leaderboard, counting back from the current day
+leaderboard-range: 30
+
+# Delete records that are no longer within the set range
+purge-outdated: false
+
+# Format for when there is no valid record
+no-data-format: "-"
